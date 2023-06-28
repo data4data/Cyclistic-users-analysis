@@ -22,9 +22,15 @@ The data used for this analysis is sourced from the [divvy-tripdata S3 bucket](h
 
 
 ## **Data sources used**
+
 [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/home/week/1)
+
 [How To Use Kaggle](https://www.kaggle.com/docs)
+
 [Getting Help with R](https://www.r-project.org/help.html)
+
 [Python Documentation](https://www.python.org)
+
 [Cyclistic-bike-share-data-12-months dataset](https://www.kaggle.com/datasets/antonukolga/cyclistic-bike-share-data-12-months)
+
 [Divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
