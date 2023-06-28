@@ -1,7 +1,7 @@
 # **Cyclistic-users-analysis**
 
 ## **Introduction**
-This analysis is based on the Cyclistic bike-share analysis case study, which is part of the [Google Data Analytics Professional Certification on Coursera](https://www.coursera.org/)capstone project.
+This analysis is based on the Cyclistic bike-share analysis case study, which is part of the [Google Data Analytics Professional Certification on Coursera](https://www.coursera.org/) capstone project.
 
 Cyclistic is a fictitious Chicago-based bike-sharing company. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, team will design a new marketing strategy to convert casual riders into annual members.
 
@@ -23,7 +23,7 @@ The data used for this analysis is sourced from the [divvy-tripdata S3 bucket](h
 
 ## **Data sources used**
 
-[Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/home/week/1)
+[Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org)
 
 [How To Use Kaggle](https://www.kaggle.com/docs)
 
