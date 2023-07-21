@@ -1,0 +1,11 @@
+2023-06-29 14:35:34,311 - INFO: Start reading data
+2023-06-29 14:35:44,891 - INFO: Data is ready
+2023-06-29 14:35:48,551 - INFO: Running statistical tests started
+2023-06-29 14:35:51,635 - INFO: Main statistics are calculated
+2023-06-29 14:36:07,302 - INFO: Kolmogorov-Smirnov test is calculated
+2023-06-29 14:36:07,349 - INFO: Chi-square test is calculated
+2023-06-29 14:36:10,149 - INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-06-29 14:36:10,150 - INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-06-29 14:36:10,160 - INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-06-29 14:36:10,160 - INFO: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-06-29 14:36:11,220 - INFO: Execution time: 36.90971493721008 seconds
