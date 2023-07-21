@@ -19,6 +19,8 @@ The data used for this analysis is sourced from the [divvy-tripdata S3 bucket](h
  - Performing data reduction using stratified sampling to preserve the data distribution as accurately as possible. This step aims to address limitations imposed by using Tableau Public, which restricts data file size to 1GB. The result is generating an HTML report with statistical analysis and new dataset based on Python 3.
 
  - Visualizing the data in [Tableau](https://public.tableau.com/app/profile/olha.antoniuk/viz/TripsUsersCyclistic/Dashboard5) and presenting key analysis findings. This step aligns with the Cyclistic bike-share analysis case study, which is part of the Google Data Analytics Professional Certification on Coursera capstone project. It's important to note that the data used for visualization has undergone stratified sampling, so the visualizations may not accurately represent the real-world scenario. The visualization is created for educational and demonstrative purposes.
+   
+ - [Formal presentation](https://docs.google.com/presentation/d/1WGsgy7QlTG0H4Qi_Sy1zo5DfqGjFqQUiYfVebFm__gI/edit?usp=sharing) with insights and recomendations how new marketing strategy can convert casual riders into annual members.
 
 
 ## **Data sources used**
