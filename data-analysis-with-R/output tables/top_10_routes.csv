@@ -1,0 +1,21 @@
+user_type,start_station_name,end_station_name,count_of_trips
+casual,No fixed station,No fixed station,113580
+casual,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,3244
+casual,Streeter Dr & Grand Ave,No fixed station,2362
+casual,Streeter Dr & Grand Ave,Streeter Dr & Grand Ave,2164
+casual,Streeter Dr & Grand Ave,DuSable Lake Shore Dr & Monroe St,1804
+casual,No fixed station,Streeter Dr & Grand Ave,1778
+casual,Streeter Dr & Grand Ave,Millennium Park,1630
+casual,Streeter Dr & Grand Ave,Michigan Ave & Oak St,1618
+casual,Streeter Dr & Grand Ave,DuSable Lake Shore Dr & North Blvd,1530
+casual,Millennium Park,Streeter Dr & Grand Ave,1451
+member,No fixed station,No fixed station,143660
+member,Ellis Ave & 60th St,University Ave & 57th St,6077
+member,University Ave & 57th St,Ellis Ave & 60th St,5730
+member,Ellis Ave & 60th St,Ellis Ave & 55th St,5568
+member,Ellis Ave & 55th St,Ellis Ave & 60th St,5249
+member,State St & 33rd St,Calumet Ave & 33rd St,3932
+member,Calumet Ave & 33rd St,State St & 33rd St,3771
+member,Loomis St & Lexington St,Morgan St & Polk St,3423
+member,Morgan St & Polk St,Loomis St & Lexington St,3239
+member,University Ave & 57th St,Kimbark Ave & 53rd St,2512
